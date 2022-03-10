@@ -7,7 +7,7 @@ public static boolean hyperPad(int num){
         num = num/10;
         if(resto%2!=0)
         {
-            int h =23;
+            int h =243;
             return false;
         }
 
