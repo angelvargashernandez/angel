@@ -11,7 +11,7 @@ public static boolean hyperPad(int num){
             return false;
         }
 
-
+        sout 0D
 
     }
     return true;
