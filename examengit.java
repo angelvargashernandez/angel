@@ -15,6 +15,9 @@ public static boolean hyperPad(int num){
 
     }
     return true;
+    else{
+        return false;
+    }
 
 
 }
